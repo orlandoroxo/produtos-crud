@@ -88,7 +88,7 @@ class SistemaCRUD:
 class GUI:
     def __init__(self, master):
         self.master = master
-        master.title("Sistema CRUD para PostgreSQL")
+        master.title("Cyber Lista")
         
         self.sistema_crud = SistemaCRUD("SistemaCRUD")
 
