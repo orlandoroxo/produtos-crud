@@ -98,13 +98,13 @@ A tabela de produtos é atualizada automaticamente para refletir qualquer modifi
 
 # 4 Interface Gráfica
 
-![TELA1](LINK AQUI)
-![TELA2](LINK AQUI)
-![TELA3](LINK AQUI)
-![TELA4](LINK AQUI)
-![TELA5](LINK AQUI)
+![TELA1](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/tela1.png)
+![TELA2](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/tela2.png)
+![TELA3](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/tela3.png)
+![TELA4](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/tela4.png)
+![TELA5](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/tela5.png)
 
 # 4 Registro no banco de dados
 
-![BD](LINK AQUI)
+![BD](https://github.com/orlandoroxo/produtos-crud/blob/main/assets/bd.png)
 
