@@ -18,7 +18,9 @@ class SistemaCRUD:
                 host="localhost",
                 database="meubanco",
                 user="orlando",
-                password="orlando2552"
+                password="orlando2552",
+                port=5432,
+                #encoding="utf-8"
             )
             print("Conexão com o Banco de Dados aberta com sucesso!")
             self.create_table()
