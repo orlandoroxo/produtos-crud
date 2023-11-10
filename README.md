@@ -1,6 +1,6 @@
-# Projeto Cadastro de Produtos 
+# Projeto da CyberLista
 
-O projeto Cadastro de Produtos trata-se de um sistema desenvolvido na disciplina de Desenvolvimento Rápido de Aplicações em Python para realizar as operações CRUD de produtos como requisito parcial de aprovação na disciplina. 
+O projeto CyberLista trata-se de um sistema desenvolvido na disciplina de Desenvolvimento Rápido de Aplicações em Python para realizar as operações CRUD de produtos como requisito parcial de aprovação na disciplina. 
 
 * Data: 02/11/2023
 * Versão atual: 1.0
