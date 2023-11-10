@@ -1,4 +1,4 @@
-# Projeto da CyberLista
+# Projeto CyberLista
 
 O projeto CyberLista trata-se de um sistema desenvolvido na disciplina de Desenvolvimento Rápido de Aplicações em Python para realizar as operações CRUD de produtos como requisito parcial de aprovação na disciplina. 
 
